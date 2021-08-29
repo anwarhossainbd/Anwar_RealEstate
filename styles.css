@@ -46,6 +46,28 @@ img {
     width: 100%;
 }
 
+.container {
+    max-width: 114rem;
+    margin: 0 auto;
+    padding: 0 3rem;
+}
+
+
+.d-flex {
+    display: flex;
+    align-items: center;
+}
+
+/*
+=================
+Header
+=================
+*/
+
+.header{
+    position: relative;
+    min-height: 100vh;
+}
 
 
 
